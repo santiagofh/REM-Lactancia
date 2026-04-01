@@ -14,6 +14,6 @@ showSidebarNavigation = true
 base = "light"
 primaryColor = "#FE6565"
 backgroundColor = "#FFFFFF"
-secondaryBackgroundColor = "#EAF4FA"
+secondaryBackgroundColor = "#F0F2F6"
 textColor = "#006FB3"
 font = "sans serif"
