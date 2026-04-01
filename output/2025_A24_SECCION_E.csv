@@ -1,0 +1,1031 @@
+,descripcion_prestacion,IdServicio,IdEstablecimiento,CodigoPrestacion,IdRegion,IdComuna,Maternidad,Neonatología,Pueblos originarios,Migrantes,nombre_ss,nombre_establecimiento,nombre_comuna
+0,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,152,,0,51,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+2,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,149,,0,47,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+3,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,3,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+4,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,15,,0,3,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+5,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,1,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+6,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,184,,0,38,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+7,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,162,,0,36,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+8,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+9,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,17,,0,2,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+10,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,3,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+11,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,182,,0,62,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+12,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,161,,0,57,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+13,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,161,,0,57,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+14,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,20,,0,5,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+15,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,1,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+16,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,206,,0,59,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+17,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,189,,0,55,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+18,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,16,,0,4,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+19,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,1,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+20,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,177,,0,51,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+21,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,165,,0,49,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+22,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,3,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+23,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,5,,0,1,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+24,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,4,,0,1,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+25,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,168,,0,53,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+26,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,153,,0,47,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+27,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,14,,0,6,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+28,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,1,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+29,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,176,,0,60,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+30,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,157,,0,60,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+31,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+32,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,12,,0,6,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+33,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,5,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+34,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,183,,0,45,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+35,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,169,,0,41,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+36,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+37,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,10,,0,4,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+38,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+39,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,158,,0,56,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+40,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,144,,0,51,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+41,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,11,,0,5,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+42,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,3,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+43,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,200,,0,47,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+44,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,184,,0,41,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+45,RN egresados con lactancia mixta al alta,10,110120,24311026,13,13126,13,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+46,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110120,24311027,13,13126,3,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+47,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,184,0,0,43,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+48,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,169,0,0,39,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+49,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,169,0,0,39,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+50,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,181,0,0,47,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+51,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,161,0,0,42,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+52,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,161,0,0,42,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
+53,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,3,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+54,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,93,20,0,19,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+55,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,87,3,0,17,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+56,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,90,17,0,19,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+57,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,235,82,0,135,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+58,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,169,0,0,77,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+59,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,39,28,0,26,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+60,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,27,45,0,24,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+61,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),9,109100,24311027,13,13108,4,2,0,5,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+62,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,3,0,0,3,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+63,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+64,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,46,1,0,25,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+65,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+66,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,383,89,0,190,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+67,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,222,33,0,107,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+68,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,39,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+69,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,294,91,0,170,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+70,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,198,34,0,107,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+71,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,57,0,0,19,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+72,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,54,0,0,21,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+73,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+74,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+75,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+76,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,0,7,0,2,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+77,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+78,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+79,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+80,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,28,0,0,11,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+81,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+82,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,397,85,0,163,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+83,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,288,30,0,135,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+84,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,11,0,0,6,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+85,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,411,93,0,194,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+86,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,244,2,0,123,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+87,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,314,94,0,183,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+88,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,53,33,0,14,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+89,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,28,0,0,11,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+90,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,2,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+91,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+92,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,2,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+93,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,0,5,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+94,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,397,112,0,243,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+95,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,192,1,0,101,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+96,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,52,26,0,37,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+97,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,60,78,0,69,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+98,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),9,109100,24311027,13,13108,0,8,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+99,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+100,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,45,0,0,20,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+101,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,54,0,0,28,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+102,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,260,28,0,118,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+103,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,411,88,0,175,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+104,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,293,29,0,143,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+105,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+106,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,19,2,0,8,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+107,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,24,0,0,9,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+108,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,3,0,0,2,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+109,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,414,99,0,216,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+110,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,275,31,0,142,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+111,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,16,1,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+112,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,43,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+113,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+114,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,3,0,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+115,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,41,47,0,21,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+116,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,48,3,0,14,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+117,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+118,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,337,95,0,144,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+119,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,285,0,0,125,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+120,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,0,5,0,2,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+121,RN egresados solo fórmula por protección o madre grave,9,109100,24311028,13,13108,0,7,0,7,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+122,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,334,87,0,191,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+123,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,178,1,0,104,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+124,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,41,26,0,31,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+125,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,43,55,0,35,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+126,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),9,109100,24311027,13,13108,0,6,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+127,RN egresados con madres serología positiva (VIH),9,109100,29101770,13,13108,1,0,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+128,Total de recién nacidos/as egresados/as,9,109100,24200134,13,13108,347,72,0,180,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+129,RN egresados con LME durante hospitalización y al alta,9,109100,24300103,13,13108,244,0,0,115,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+130,RN egresados que recuperaron LME al alta,9,109100,24311025,13,13108,3,16,0,9,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+131,RN egresados con lactancia mixta al alta,9,109100,24311026,13,13108,49,50,0,35,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+132,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),9,109100,24311027,13,13108,1,1,0,1,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+133,RN egresados con madres acogidas a Ley 21.155,9,109100,29101772,13,13108,1,1,0,0,Servicio de Salud Metropolitano Norte,"Complejo Hospitalario San José (Santiago, Independencia)",Independencia
+134,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,141,38,8,64,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+135,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,74,,7,29,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+136,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,34,5,1,11,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+137,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,19,28,0,16,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+138,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+139,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+140,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,11,,0,5,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+141,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+142,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,123,23,6,59,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+143,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,60,,2,32,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+144,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,33,1,1,12,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+145,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,3,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+146,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+147,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,2,,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+148,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,12,,0,3,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+149,RN egresados solo fórmula por protección o madre grave,10,110150,24311028,13,13501,0,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+150,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,112,19,0,48,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+151,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,92,17,0,16,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+152,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,3,19,0,14,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+153,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,1,19,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+154,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110150,24311027,13,13501,0,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+155,RN egresados solo fórmula por protección o madre grave,10,110150,24311028,13,13501,0,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+156,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,93,16,2,39,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+157,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,89,0,2,39,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+158,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,2,15,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+159,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,4,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+160,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,120,19,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+161,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,118,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+162,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,0,14,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+163,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,2,5,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+164,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,131,19,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+165,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,129,6,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+166,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,130,12,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+167,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,122,13,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+168,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,121,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+169,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,121,10,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+170,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+171,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,117,18,2,40,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+172,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,115,1,2,40,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+173,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,116,17,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+174,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,1,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+175,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,115,16,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+176,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,113,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+177,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,2,15,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+178,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110150,24311027,13,13501,0,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+179,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,101,9,0,23,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+180,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,91,2,0,23,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+181,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,98,7,0,23,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+182,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,118,16,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+183,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,116,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+184,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,2,11,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+185,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,119,12,0,15,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+186,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,107,2,0,14,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+187,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,12,6,0,2,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+188,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,0,6,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+189,Total de recién nacidos/as egresados/as,10,110150,24200134,13,13501,110,21,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+190,RN egresados con LME durante hospitalización y al alta,10,110150,24300103,13,13501,108,4,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+191,RN egresados que recuperaron LME al alta,10,110150,24311025,13,13501,0,14,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+192,RN egresados con lactancia mixta al alta,10,110150,24311026,13,13501,2,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital San José (Melipilla),Melipilla
+193,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+194,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,53,2,0,9,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+195,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,43,0,0,8,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+196,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,0,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+197,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,6,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+198,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+199,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,0,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+200,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,65,4,1,11,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+201,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,58,0,0,10,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+202,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,0,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+203,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,6,2,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+204,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+205,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,66,5,0,5,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+206,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,54,0,0,4,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+207,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,7,4,0,4,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+208,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,4,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+209,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110130,24311027,13,13601,1,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+210,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,6,1,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+211,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,2,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+212,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,70,4,1,14,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+213,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,62,0,1,13,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+214,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,0,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+215,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,70,2,2,17,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+216,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,59,0,2,15,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+217,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,2,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+218,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,8,2,0,2,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+219,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+220,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,70,8,4,8,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+221,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,62,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+222,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,65,6,1,6,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+223,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,59,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+224,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+225,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,3,6,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+226,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+227,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,0,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+228,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,67,7,0,7,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+229,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,3,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+230,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,2,4,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+231,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+232,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,62,6,0,5,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+233,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,58,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+234,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,1,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+235,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,2,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+236,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+237,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,5,1,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+238,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,58,4,0,5,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+239,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,49,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+240,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,2,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+241,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,1,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+242,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+243,RN egresados solo fórmula por protección o madre grave,10,110130,24311028,13,13601,0,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+244,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,52,4,0,7,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+245,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,48,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+246,RN egresados que recuperaron LME al alta,10,110130,24311025,13,13601,2,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+247,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,1,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+248,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+249,Total de recién nacidos/as egresados/as,10,110130,24200134,13,13601,66,1,1,13,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+250,RN egresados con LME durante hospitalización y al alta,10,110130,24300103,13,13601,55,0,0,9,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+251,RN egresados con lactancia mixta al alta,10,110130,24311026,13,13601,9,1,0,3,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+252,RN egresados con madres acogidas a Ley 21.155,10,110130,29101772,13,13601,2,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital Adalberto Steeger (Talagante),Talagante
+253,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,6,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+254,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,6,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+255,RN egresados solo fórmula por protección o madre grave,10,110140,24311028,13,13605,1,,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+256,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,4,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+257,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,3,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+258,RN egresados con lactancia mixta al alta,10,110140,24311026,13,13605,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+259,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,7,0,1,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+260,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,6,0,1,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+261,RN egresados con lactancia mixta al alta,10,110140,24311026,13,13605,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+262,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,3,0,0,3,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+263,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,3,0,0,3,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+264,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,3,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+265,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,3,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+266,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,8,,0,1,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+267,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,7,,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+268,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,7,0,0,3,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+269,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,6,,0,2,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+270,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,5,,0,2,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+271,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,7,0,0,3,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+272,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,5,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+273,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,4,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+274,RN egresados con lactancia mixta al alta,10,110140,24311026,13,13605,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+275,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,2,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+276,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,2,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+277,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,4,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+278,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,3,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+279,RN egresados que recuperaron LME al alta,10,110140,24311025,13,13605,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+280,Total de recién nacidos/as egresados/as,10,110140,24200134,13,13605,4,,0,1,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+281,RN egresados con LME durante hospitalización y al alta,10,110140,24300103,13,13605,4,,0,0,Servicio de Salud Metropolitano Occidente,Hospital de Peñaflor,Peñaflor
+282,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,5,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+283,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,136,38,10,58,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+284,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,4,28,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+285,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,30,4,2,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+286,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,13,26,4,16,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+287,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+288,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,8,0,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+289,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,141,35,8,60,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+290,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,81,,3,29,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+291,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,28,4,2,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+292,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,17,31,3,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+293,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+294,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+295,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+296,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,5,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+297,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,168,48,7,93,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+298,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,152,0,7,70,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+299,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,10,8,0,6,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+300,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,6,30,0,14,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+301,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,0,4,0,3,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+302,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+303,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+304,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,3,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+305,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,9,0,5,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+306,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,181,45,4,97,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+307,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,174,0,4,79,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+308,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,2,4,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+309,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,3,29,0,11,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+310,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,1,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+311,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,1,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+312,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,184,43,5,109,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+313,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,167,0,5,70,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+314,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,10,8,0,8,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+315,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,1,28,0,26,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+316,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,1,2,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+317,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,2,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+318,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,3,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+319,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,2,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+320,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,189,42,2,94,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+321,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,180,0,2,70,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+322,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,5,13,0,6,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+323,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,3,24,0,17,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+324,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+325,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,1,2,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+326,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,186,50,5,111,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+327,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,170,1,4,81,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+328,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,9,4,1,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+329,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,3,35,0,16,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+330,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,0,5,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+331,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,0,1,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+332,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,4,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+333,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,4,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+334,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,11,0,5,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+335,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,209,58,2,87,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+336,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,188,0,2,75,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+337,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,12,2,0,4,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+338,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,4,17,0,7,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+339,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,5,0,0,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+340,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,1,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+341,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,4,0,0,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+342,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,210,56,8,115,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+343,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,197,0,7,78,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+344,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,2,20,0,11,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+345,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,10,25,0,21,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+346,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,1,0,1,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+347,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,1,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+348,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,168,46,5,88,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+349,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,155,0,5,68,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+350,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,4,29,0,13,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+351,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,5,14,0,6,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+352,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,0,2,0,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+353,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,1,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+354,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,3,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+355,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,5,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+356,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,191,39,2,95,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+357,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,170,0,1,72,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+358,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,10,14,1,9,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+359,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,9,19,0,12,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+360,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+361,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,1,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+362,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,2,0,0,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+363,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,3,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+364,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,164,39,4,88,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+365,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,153,0,4,72,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+366,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,3,3,0,3,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+367,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,5,29,0,11,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+368,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,0,3,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+369,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,1,1,0,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+370,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,2,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+371,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,183,40,5,106,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+372,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,172,0,5,84,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+373,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,6,21,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+374,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,3,16,0,11,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+375,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113100,24311027,13,13130,2,0,0,2,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+376,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,1,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+377,RN egresados con madres acogidas a Ley 21.155,13,113100,29101772,13,13130,1,0,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+378,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,2,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+379,RN egresados solo fórmula por protección o madre grave,13,113100,24311028,13,13130,0,3,0,1,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+380,Total de recién nacidos/as egresados/as,13,113100,24200134,13,13130,221,42,5,122,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+381,RN egresados con LME durante hospitalización y al alta,13,113100,24300103,13,13130,208,0,4,96,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+382,RN egresados que recuperaron LME al alta,13,113100,24311025,13,13130,4,19,0,5,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+383,RN egresados con lactancia mixta al alta,13,113100,24311026,13,13130,7,19,1,14,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+384,RN egresados con madres serología positiva (VIH),13,113100,29101770,13,13130,2,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital Barros Luco Trudeau (Santiago, San Miguel)",San Miguel
+385,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,87,1,0,30,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+386,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,80,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+387,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,93,46,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+388,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,80,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+389,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,87,11,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+390,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+391,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,62,33,0,4,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+392,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,49,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+393,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,1,3,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+394,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,36,28,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+395,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113180,24311027,13,13401,0,5,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+396,RN egresados con madres serología positiva (VIH),13,113180,29101770,13,13401,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+397,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,5,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+398,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,95,45,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+399,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,85,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+400,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,5,38,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+401,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,5,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+402,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,89,36,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+403,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,80,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+404,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,6,27,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+405,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,2,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+406,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,91,54,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+407,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,85,6,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+408,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+409,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,6,46,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+410,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,48,31,0,9,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+411,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,40,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+412,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,1,4,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+413,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,8,25,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+414,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113180,24311027,13,13401,0,3,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+415,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,5,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+416,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,89,36,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+417,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,80,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+418,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,6,27,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+419,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,2,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+420,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,125,45,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+421,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,110,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+422,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,118,4,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+423,RN egresados con madres acogidas a Ley 21.155,13,113180,29101772,13,13401,1,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+424,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,95,43,0,5,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+425,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,81,4,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+426,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,5,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+427,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,5,38,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+428,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,99,51,0,13,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+429,RN egresados con LME durante hospitalización y al alta,13,113180,24300103,13,13401,88,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+430,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,1,2,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+431,RN egresados con lactancia mixta al alta,13,113180,24311026,13,13401,11,48,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+432,RN egresados solo fórmula por protección o madre grave,13,113180,24311028,13,13401,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+433,Total de recién nacidos/as egresados/as,13,113180,24200134,13,13401,107,2,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+434,RN egresados que recuperaron LME al alta,13,113180,24311025,13,13401,88,0,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+435,RN egresados con madres serología positiva (VIH),13,113180,29101770,13,13401,0,1,0,0,Servicio de Salud Metropolitano Sur,"Hospital El Pino (Santiago, San Bernardo)",San Bernardo
+436,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,128,13,1,11,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+437,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,128,0,1,11,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+438,RN egresados con madres serología positiva (VIH),13,113190,29101770,13,13401,1,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+439,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,93,4,0,5,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+440,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,93,0,0,5,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+441,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,103,7,0,6,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+442,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,103,0,0,6,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+443,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,2,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+444,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,43,9,4,5,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+445,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,31,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+446,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,12,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+447,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,135,11,3,2,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+448,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,133,0,3,12,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+449,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,2,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+450,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,86,2,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+451,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,84,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+452,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,2,,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+453,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,101,7,0,10,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+454,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,94,0,0,9,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+455,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,7,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+456,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,81,2,0,3,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+457,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,79,0,0,3,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+458,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,2,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+459,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,75,8,0,7,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+460,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,65,0,0,3,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+461,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,8,0,0,1,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+462,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113190,24311027,13,13401,2,0,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+463,RN egresados con madres serología positiva (VIH),13,113190,29101770,13,13401,0,1,0,0,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+464,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,100,5,0,4,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+465,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,89,0,0,3,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+466,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,6,0,0,1,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+467,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,91,12,15,3,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+468,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,67,0,9,1,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+469,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,8,0,2,1,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+470,Total de recién nacidos/as egresados/as,13,113190,24200134,13,13401,82,3,0,5,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+471,RN egresados con LME durante hospitalización y al alta,13,113190,24300103,13,13401,66,0,0,3,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+472,RN egresados con lactancia mixta al alta,13,113190,24311026,13,13401,5,0,0,1,Servicio de Salud Metropolitano Sur,Hospital Parroquial de San Bernardo (D),San Bernardo
+473,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,57,12,4,13,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+474,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,54,1,4,12,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+475,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,3,0,0,2,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+476,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,2,7,0,3,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+477,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113150,24311027,13,13402,1,0,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+478,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,55,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+479,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,52,,2,13,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+480,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,3,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+481,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,3,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+482,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,65,,2,24,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+483,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,61,,2,23,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+484,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,59,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+485,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,4,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+486,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,52,11,5,16,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+487,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,47,3,4,14,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+488,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,2,3,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+489,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,5,6,1,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+490,RN egresados solo fórmula por protección o madre grave,13,113150,24311028,13,13402,0,1,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+491,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,66,11,2,33,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+492,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,58,2,1,23,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+493,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,7,0,0,3,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+494,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,1,8,1,3,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+495,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,67,0,3,27,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+496,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,63,,2,25,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+497,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,12,,0,3,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+498,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,3,,1,2,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+499,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113150,24311027,13,13402,1,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+500,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,60,13,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+501,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,59,2,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+502,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,5,4,0,2,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+503,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,1,5,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+504,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,55,,2,22,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+505,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,55,,2,22,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+506,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,3,,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+507,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,57,5,3,23,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+508,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,5,0,0,3,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+509,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,1,2,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+510,RN egresados solo fórmula por protección o madre grave,13,113150,24311028,13,13402,0,1,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+511,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,58,8,3,24,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+512,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,62,18,3,27,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+513,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,54,4,1,23,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+514,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,5,6,1,3,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+515,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,1,5,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+516,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),13,113150,24311027,13,13402,1,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+517,RN egresados solo fórmula por protección o madre grave,13,113150,24311028,13,13402,1,,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+518,RN egresados solo fórmula por protección o madre grave,13,113150,24311028,13,13402,0,1,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+519,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,66,12,2,23,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+520,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,61,4,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+521,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,5,0,0,0,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+522,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,5,6,0,1,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+523,Total de recién nacidos/as egresados/as,13,113150,24200134,13,13402,64,13,4,31,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+524,RN egresados con LME durante hospitalización y al alta,13,113150,24300103,13,13402,53,9,4,27,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+525,RN egresados que recuperaron LME al alta,13,113150,24311025,13,13402,4,,0,2,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+526,RN egresados con lactancia mixta al alta,13,113150,24311026,13,13402,7,4,0,2,Servicio de Salud Metropolitano Sur,Hospital San Luis (Buin),Buin
+527,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,132,37,9,65,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+528,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,7,34,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+529,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,25,6,1,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+530,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,1,16,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+531,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+532,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,,1,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+533,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,4,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+534,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+535,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,215,76,7,56,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+536,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,142,2,4,32,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+537,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,25,27,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+538,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,18,44,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+539,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,30,0,1,7,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+540,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,173,78,8,36,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+541,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,123,6,6,24,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+542,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,6,23,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+543,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,22,43,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+544,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,22,0,2,4,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+545,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,6,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+546,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,2,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+547,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,189,76,9,42,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+548,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,116,5,7,25,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+549,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,19,29,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+550,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,32,40,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+551,RN egresados con madres serología positiva (VIH),12,112101,29101770,13,13122,1,0,0,1,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+552,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,21,0,0,4,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+553,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,35,0,0,8,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+554,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,1,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+555,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,216,92,19,54,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+556,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,163,3,14,38,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+557,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,8,31,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+558,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,21,50,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+559,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),12,112101,24311027,13,13122,1,1,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+560,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,23,0,2,6,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+561,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,7,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+562,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,187,80,6,44,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+563,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,118,8,6,26,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+564,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,18,27,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+565,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,16,44,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+566,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,4,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+567,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,173,75,9,45,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+568,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,132,4,7,37,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+569,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,0,21,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+570,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,20,46,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+571,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,21,0,1,4,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+572,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,1,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+573,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,1,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+574,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,3,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+575,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,204,68,8,59,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+576,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,142,4,5,45,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+577,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,11,17,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+578,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,27,43,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+579,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,24,0,2,8,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+580,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,3,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+581,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,168,66,8,49,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+582,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,131,6,6,35,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+583,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,3,16,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+584,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,14,41,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+585,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),12,112101,24311027,13,13122,1,0,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+586,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,19,0,1,7,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+587,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,4,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+588,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,189,84,12,56,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+589,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,139,5,9,42,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+590,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,15,26,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+591,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,17,52,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+592,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,18,0,1,6,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+593,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,185,84,7,56,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+594,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,133,6,6,40,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+595,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,15,19,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+596,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,22,58,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+597,RN egresados con madres serología positiva (VIH),12,112101,29101770,13,13122,2,0,0,2,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+598,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,13,0,1,2,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+599,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,3,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+600,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,4,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+601,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,184,61,11,50,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+602,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,149,6,11,38,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+603,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,3,19,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+604,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,7,32,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+605,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,25,0,0,9,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+606,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,194,66,10,56,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+607,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,147,2,6,40,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+608,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,3,25,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+609,RN egresados con lactancia mixta al alta,12,112101,24311026,13,13122,19,36,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+610,RN egresados con madres acogidas a Ley 21.155,12,112101,29101772,13,13122,25,0,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
+611,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,1,4,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+612,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,195,44,2,194,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+613,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,155,0,1,134,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+614,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,36,12,1,36,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+615,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,3,25,0,21,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+616,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+617,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+618,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,221,59,1,250,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+619,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,159,0,0,117,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+620,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,55,28,1,78,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+621,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,6,24,0,27,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+622,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,5,0,3,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+623,RN egresados con madres acogidas a Ley 21.155,11,111100,29101772,13,13101,1,0,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+624,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,203,46,1,217,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+625,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,173,0,1,133,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+626,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,24,17,0,33,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+627,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,6,22,0,19,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+628,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+629,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+630,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,5,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+631,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,4,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+632,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,218,43,0,229,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+633,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,150,0,0,104,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+634,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,55,15,0,68,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+635,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,13,22,0,26,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+636,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,2,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+637,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,205,50,0,202,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+638,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,183,0,0,150,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+639,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,17,17,0,28,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+640,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,4,25,0,19,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+641,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,4,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+642,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+643,RN egresados con madres acogidas a Ley 21.155,11,111100,29101772,13,13101,1,0,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+644,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+645,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,220,60,1,241,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+646,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,164,0,1,126,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+647,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,51,19,1,53,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+648,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,5,31,0,23,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+649,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,2,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+650,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,2,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+651,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,4,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+652,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,198,58,1,231,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+653,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,162,0,1,151,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+654,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,29,21,0,38,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+655,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,5,23,0,21,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+656,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,1,4,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+657,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,2,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+658,RN egresados con madres acogidas a Ley 21.155,11,111100,29101772,13,13101,1,1,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+659,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,3,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+660,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,213,54,0,230,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+661,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,150,0,0,123,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+662,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,55,18,0,56,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+663,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,8,29,0,29,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+664,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,2,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+665,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,2,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+666,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,4,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+667,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,188,42,0,162,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+668,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,149,0,0,116,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+669,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,30,13,0,29,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+670,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,9,21,0,22,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+671,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+672,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,245,46,0,262,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+673,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,203,0,0,170,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+674,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,34,13,0,41,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+675,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,5,28,0,22,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+676,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,2,0,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+677,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,2,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+678,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,1,3,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+679,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,3,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+680,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,236,59,0,262,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+681,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,175,0,0,147,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+682,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,54,17,0,49,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+683,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,7,35,0,32,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+684,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,2,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+685,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+686,RN egresados con madres acogidas a Ley 21.155,11,111100,29101772,13,13101,0,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+687,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,8,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+688,Total de recién nacidos/as egresados/as,11,111100,24200134,13,13101,234,46,3,249,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+689,RN egresados con LME durante hospitalización y al alta,11,111100,24300103,13,13101,160,0,3,120,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+690,RN egresados que recuperaron LME al alta,11,111100,24311025,13,13101,60,12,0,58,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+691,RN egresados con lactancia mixta al alta,11,111100,24311026,13,13101,11,21,0,22,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+692,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111100,24311027,13,13101,0,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+693,RN egresados con madres serología positiva (VIH),11,111100,29101770,13,13101,0,4,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+694,RN egresados con madres acogidas a Ley 21.155,11,111100,29101772,13,13101,3,0,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+695,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+696,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,166,46,6,42,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+697,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,132,,6,34,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+698,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,20,5,0,7,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+699,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,13,37,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+700,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,1,3,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+701,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,3,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+702,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,175,38,13,41,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+703,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,140,,13,30,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+704,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,15,7,0,5,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+705,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,17,23,0,6,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+706,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,2,5,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+707,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,1,,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+708,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,2,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+709,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,153,41,8,40,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+710,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,116,,7,29,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+711,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,18,9,1,7,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+712,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,17,25,0,4,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+713,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,2,5,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+714,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,2,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+715,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,155,35,9,27,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+716,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,108,,7,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+717,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,15,7,0,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+718,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,27,25,2,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+719,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,3,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+720,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,2,,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+721,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+722,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,172,37,10,28,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+723,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,147,0,9,23,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+724,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,14,6,1,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+725,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,10,28,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+726,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+727,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,1,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+728,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,2,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+729,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,130,32,11,36,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+730,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,108,,8,29,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+731,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,13,5,1,5,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+732,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,8,21,2,2,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+733,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,1,4,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+734,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,140,33,10,40,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+735,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,115,,8,35,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+736,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,7,3,1,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+737,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,16,21,1,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+738,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,1,1,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+739,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,1,,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+740,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,8,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+741,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+742,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,145,39,10,37,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+743,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,118,,8,30,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+744,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,9,4,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+745,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,16,30,1,5,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+746,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,1,4,1,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+747,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,1,0,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+748,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,147,27,11,41,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+749,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,120,0,11,34,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+750,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,10,10,0,2,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+751,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,15,17,0,4,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+752,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,1,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+753,RN egresados con madres serología positiva (VIH),11,111101,29101770,13,13119,,1,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+754,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,1,,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+755,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,148,19,9,41,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+756,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,113,,7,31,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+757,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,14,4,1,6,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+758,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,17,9,1,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+759,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,4,3,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+760,RN egresados solo fórmula por protección o madre grave,11,111101,24311028,13,13119,,3,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+761,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,122,32,12,31,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+762,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,96,0,10,24,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+763,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,9,3,1,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+764,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,16,16,1,4,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+765,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,,10,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+766,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,1,,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+767,Total de recién nacidos/as egresados/as,11,111101,24200134,13,13119,172,31,7,43,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+768,RN egresados con LME durante hospitalización y al alta,11,111101,24300103,13,13119,140,,6,33,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+769,RN egresados que recuperaron LME al alta,11,111101,24311025,13,13119,15,9,1,7,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+770,RN egresados con lactancia mixta al alta,11,111101,24311026,13,13119,15,19,0,3,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+771,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),11,111101,24311027,13,13119,1,3,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+772,RN egresados con madres acogidas a Ley 21.155,11,111101,29101772,13,13119,1,0,0,0,Servicio de Salud Metropolitano Central,Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada,Maipú
+773,RN egresados solo fórmula por protección o madre grave,11,111100,24311028,13,13101,0,3,0,1,Servicio de Salud Metropolitano Central,Hospital Clínico San Borja Arriarán,Santiago
+774,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,2,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+775,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,147,33,3,24,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+776,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,112,1,2,18,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+777,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,7,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+778,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,35,21,1,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+779,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,0,14,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+780,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,152,,0,51,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+781,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,118,,0,38,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+782,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,33,,0,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+783,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,1,,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+784,RN egresados con madres serología positiva (VIH),14,114105,29101770,13,13110,1,,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+785,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,2,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+786,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,161,48,8,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+787,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,132,0,7,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+788,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,132,31,7,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+789,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,29,17,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+790,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,5,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+791,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,128,32,6,33,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+792,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,106,20,6,28,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+793,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,20,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+794,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,21,7,0,4,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+795,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,1,2,0,1,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+796,RN egresados con madres serología positiva (VIH),14,114105,29101770,13,13110,1,1,0,1,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+797,RN egresados con madres acogidas a Ley 21.155,14,114105,29101772,13,13110,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+798,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,3,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+799,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,156,26,2,51,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+800,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,128,0,1,46,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+801,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,128,17,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+802,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,27,9,1,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+803,RN egresados con madres acogidas a Ley 21.155,14,114105,29101772,13,13110,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+804,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,128,26,0,40,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+805,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,96,0,0,28,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+806,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,96,4,0,30,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+807,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,31,19,0,10,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+808,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,0,3,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+809,RN egresados con madres serología positiva (VIH),14,114105,29101770,13,13110,1,,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+810,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+811,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,152,22,3,28,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+812,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,129,16,0,21,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+813,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,129,16,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+814,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,23,5,0,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+815,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+816,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,118,34,4,41,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+817,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,92,0,2,22,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+818,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,20,0,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+819,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,25,12,1,10,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+820,RN egresados con madres serología positiva (VIH),14,114105,29101770,13,13110,1,,0,1,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+821,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,2,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+822,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,135,15,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+823,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,114,0,2,23,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+824,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,9,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+825,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,21,6,1,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+826,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+827,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,159,38,7,40,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+828,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,133,0,4,27,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+829,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,8,1,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+830,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,26,26,2,13,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+831,RN egresados solo fórmula por protección o madre grave,14,114105,24311028,13,13110,0,3,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+832,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,150,35,4,37,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+833,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,121,0,2,34,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+834,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,121,24,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+835,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,27,6,2,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+836,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,0,4,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+837,RN egresados con madres serología positiva (VIH),14,114105,29101770,13,13110,2,0,0,1,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+838,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,162,33,0,45,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+839,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,127,20,4,38,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+840,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,20,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+841,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,35,13,1,7,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+842,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
+843,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,179,57,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+844,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,169,35,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+845,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,7,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+846,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,151,41,8,16,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+847,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,75,0,5,10,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+848,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,13,24,2,4,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+849,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,0,9,1,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+850,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114103,24311027,13,13131,1,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+851,RN egresados con madres serología positiva (VIH),14,114103,29101770,13,13131,1,0,0,1,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+852,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,7,2,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+853,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,161,40,11,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+854,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,98,0,2,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+855,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,25,19,0,2,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+856,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,17,13,3,2,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+857,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,147,31,3,18,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+858,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,54,0,5,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+859,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,47,15,9,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+860,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,16,11,3,4,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+861,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114103,24311027,13,13131,,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+862,RN egresados con madres serología positiva (VIH),14,114103,29101770,13,13131,,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+863,RN egresados con madres acogidas a Ley 21.155,14,114103,29101772,13,13131,,1,1,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+864,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,,39,4,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+865,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,,19,2,5,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+866,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,,15,1,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+867,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,,4,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+868,RN egresados con madres serología positiva (VIH),14,114103,29101770,13,13131,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+869,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,119,0,14,12,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+870,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,,33,6,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+871,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,8,8,1,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+872,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,5,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+873,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,127,48,8,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+874,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,125,46,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+875,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,116,28,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+876,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,9,18,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+877,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+878,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,3,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+879,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,132,52,5,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+880,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,126,37,3,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+881,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,6,10,2,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+882,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114103,24311027,13,13131,0,3,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+883,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,168,51,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+884,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,113,36,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+885,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,12,0,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+886,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,0,8,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+887,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,2,6,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+888,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,8,1,1,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+889,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,110,36,18,19,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+890,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,45,0,6,8,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+891,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,51,22,9,9,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+892,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,13,8,3,2,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+893,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114103,24311027,13,13131,0,4,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+894,RN egresados con madres acogidas a Ley 21.155,14,114103,29101772,13,13131,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+895,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,126,53,7,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+896,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,108,0,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+897,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,,31,4,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+898,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,18,12,2,2,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+899,RN egresados con madres acogidas a Ley 21.155,14,114103,29101772,13,13131,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+900,Total de recién nacidos/as egresados/as,14,114103,24200134,13,13131,142,49,19,26,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+901,RN egresados con LME durante hospitalización y al alta,14,114103,24300103,13,13131,50,0,7,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+902,RN egresados que recuperaron LME al alta,14,114103,24311025,13,13131,46,23,6,12,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+903,RN egresados con lactancia mixta al alta,14,114103,24311026,13,13131,24,12,2,4,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+904,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114103,24311027,13,13131,0,3,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+905,RN egresados con madres serología positiva (VIH),14,114103,29101770,13,13131,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+906,RN egresados con madres acogidas a Ley 21.155,14,114103,29101772,13,13131,0,1,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+907,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,2,8,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+908,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,4,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+909,RN egresados solo fórmula por protección o madre grave,14,114103,24311028,13,13131,0,4,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Padre Alberto Hurtado (San Ramón),San Ramón
+910,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,138,70,1,20,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+911,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,108,0,1,16,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+912,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,14,40,0,2,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+913,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,14,22,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+914,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114101,24311027,13,13201,2,5,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+915,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,2,0,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+916,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,171,73,4,29,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+917,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,131,32,3,18,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+918,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,16,,1,4,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+919,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,165,,4,18,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+920,RN egresados con madres serología positiva (VIH),14,114101,29101770,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+921,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,5,0,0,2,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+922,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,157,72,11,29,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+923,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,116,0,8,19,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+924,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,17,46,1,6,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+925,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,56,20,11,29,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+926,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114101,24311027,13,13201,0,6,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+927,RN egresados con madres serología positiva (HTLV-1),14,114101,29101771,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+928,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,6,0,1,2,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+929,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,134,106,28,20,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+930,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,100,0,20,5,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+931,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,17,40,4,6,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+932,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,130,51,27,15,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+933,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,4,0,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+934,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,147,62,0,16,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+935,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,119,26,0,12,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+936,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,11,,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+937,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,12,,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+938,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114101,24311027,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+939,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+940,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,126,86,1,57,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+941,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,100,0,1,19,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+942,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,8,44,0,6,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+943,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,118,30,1,26,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+944,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114101,24311027,13,13201,0,8,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+945,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,8,0,0,2,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+946,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,164,65,13,29,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+947,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,117,0,12,14,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+948,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,17,31,0,6,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+949,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,21,23,0,3,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+950,RN egresados con madres serología positiva (VIH),14,114101,29101770,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+951,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,7,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+952,RN egresados solo fórmula por protección o madre grave,14,114101,24311028,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+953,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,122,74,0,27,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+954,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,89,0,0,17,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+955,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,12,36,0,3,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+956,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,121,26,0,20,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+957,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114101,24311027,13,13201,0,6,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+958,RN egresados con madres serología positiva (VIH),14,114101,29101770,13,13201,1,0,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+959,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,153,79,3,17,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+960,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,132,,2,16,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+961,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,7,38,1,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+962,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,146,28,3,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+963,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114101,24311027,13,13201,0,9,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+964,RN egresados con madres serología positiva (VIH),14,114101,29101770,13,13201,1,,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+965,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,6,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+966,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,146,97,5,39,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+967,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,120,0,5,23,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+968,RN egresados que recuperaron LME al alta,14,114101,24311025,13,13201,9,61,0,7,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+969,RN egresados con lactancia mixta al alta,14,114101,24311026,13,13201,142,23,0,32,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+970,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,4,0,0,2,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+971,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,131,66,0,9,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+972,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,111,20,0,8,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+973,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,9,0,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+974,Total de recién nacidos/as egresados/as,14,114101,24200134,13,13201,171,60,0,23,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+975,RN egresados con LME durante hospitalización y al alta,14,114101,24300103,13,13201,149,19,0,19,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+976,RN egresados con madres serología positiva (VIH),14,114101,29101770,13,13201,1,0,0,1,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+977,RN egresados con madres acogidas a Ley 21.155,14,114101,29101772,13,13201,1,0,0,0,Servicio de Salud Metropolitano Sur Oriente,"Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto)",Puente Alto
+978,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,119,32,15,49,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+979,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,70,,10,25,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+980,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,27,13,3,13,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+981,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,11,18,1,8,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+982,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+983,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,9,,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+984,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+985,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,126,23,10,38,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+986,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,69,0,7,18,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+987,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,26,1,1,8,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+988,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,0,9,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+989,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,0,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+990,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,0,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+991,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,4,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+992,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,132,43,13,56,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+993,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,81,0,6,32,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+994,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,23,10,5,7,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+995,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,13,29,2,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+996,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,0,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+997,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,3,0,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+998,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,11,0,0,6,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+999,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,3,1,1,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1000,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,161,32,8,60,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1001,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,67,0,5,32,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1002,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,31,6,0,15,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1003,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,20,24,0,15,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1004,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,5,1,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1005,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,0,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1006,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,17,0,2,5,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1007,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1008,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,142,36,5,60,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1009,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,3,33,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1010,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,25,6,0,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1011,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,7,22,2,6,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1012,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,3,5,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1013,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,2,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1014,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,6,,0,4,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1015,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,4,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1016,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,103,38,11,46,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1017,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,66,,3,27,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1018,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,19,4,4,7,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1019,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,28,3,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1020,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1021,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1022,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,4,,1,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1023,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,151,32,10,77,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1024,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,76,0,5,36,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1025,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,33,0,1,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1026,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,16,24,2,3,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1027,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,,3,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1028,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,0,1,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+1029,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,3,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
