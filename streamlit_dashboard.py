@@ -16,38 +16,10 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-    :root {
-        --gob-red: #FE6565;
-        --gob-blue: #006FB3;
-        --gob-blue-soft: #F0F2F6;
-    }
-
     .stApp h1, .stApp h2, .stApp h3 {
-        color: var(--gob-blue);
+        color: #006FB3;
         font-weight: 700;
     }
-
-    .stApp [data-testid="stMetric"] {
-        background: linear-gradient(180deg, #ffffff 0%, var(--gob-blue-soft) 100%);
-        border: 1px solid #d9dee8;
-        border-radius: 12px;
-        padding: 0.5rem 0.75rem;
-    }
-
-    .stApp button[kind="primary"] {
-        background-color: var(--gob-red);
-        border-color: var(--gob-red);
-    }
-
-    .stApp button[kind="secondary"] {
-        border-color: var(--gob-blue);
-        color: var(--gob-blue);
-    }
-
-    section[data-testid="stSidebar"] {
-        border-right: 1px solid #d9dee8;
-    }
-
     </style>
     """,
     unsafe_allow_html=True,
