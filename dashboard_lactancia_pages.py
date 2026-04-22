@@ -172,6 +172,15 @@ def dataframe_to_excel_bytes(df: pd.DataFrame) -> bytes:
     return buffer.getvalue()
 
 
+def render_provisional_badge():
+    st.markdown(
+        """
+        <div class="provisional-badge">Datos Provisorios</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
 def shorten_a04_prof_headers(df: pd.DataFrame) -> tuple[pd.DataFrame, bool]:
     pattern = re.compile(r"(?i)^consulta de lactancia por profesional\s*-\s*")
     renamed = {}
@@ -422,6 +431,7 @@ def render_section_page(section: str):
     years = list_years()
 
     st.title(f"Dashboard REM Lactancia · {section_label}")
+    render_provisional_badge()
     st.caption("Explora resultados por desagregación y descarga la vista filtrada.")
 
     with st.sidebar:

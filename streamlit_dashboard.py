@@ -20,6 +20,18 @@ st.markdown(
         color: #006FB3;
         font-weight: 700;
     }
+    .provisional-badge {
+        display: inline-block;
+        margin: 0.15rem 0 0.6rem 0;
+        padding: 0.35rem 0.7rem;
+        border-radius: 999px;
+        background: #FFF3CD;
+        border: 1px solid #F2C94C;
+        color: #7A4D00;
+        font-size: 0.9rem;
+        font-weight: 700;
+        letter-spacing: 0.01em;
+    }
     </style>
     """,
     unsafe_allow_html=True,
@@ -32,8 +44,18 @@ st.logo(
 )
 
 
+def render_provisional_badge():
+    st.markdown(
+        """
+        <div class="provisional-badge">Datos Provisorios</div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+
 def home_page():
     st.title("Dashboard REM Lactancia")
+    render_provisional_badge()
     st.caption("Selecciona una seccion en el menu izquierdo para navegar entre A03, A04 y A24.")
 
     st.markdown("### Secciones")
