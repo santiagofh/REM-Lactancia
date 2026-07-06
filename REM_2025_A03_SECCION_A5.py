@@ -14,7 +14,7 @@ codigos_de_interes = [
     "A0200002",
 ]
 
-path_a =r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2025\Datos\SerieA2025.csv"
+path_a =r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv"
 CHUNK_SIZE = 200_000
 USECOLS = [
     "CodigoPrestacion",

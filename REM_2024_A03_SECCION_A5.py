@@ -13,7 +13,7 @@ codigos_de_interes = [
     "A0200002",
 ]
 
-path_a =r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2024\Datos\SerieA2024.csv"
+path_a =r"D:\DATA\REM\REM_2024\Datos\SerieA2024.csv"
 df = pd.DataFrame()
 df = pd.read_csv(path_a, sep=";")
 df = df[(df['CodigoPrestacion'].isin(codigos_de_interes)) & 

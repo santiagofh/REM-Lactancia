@@ -66,18 +66,18 @@ DIC_CODIGO_COMUNAS={
 CODIGOS_DE_INTERES = ["A0200001", "A0200002"]
 
 PATHS = [
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2025\Datos\SerieA2025.csv",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2024\Datos\SerieA2024.csv",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2023\Datos\SerieA2023.txt",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2022\SerieA.txt",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2021\2021\SerieA_2021.txt",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2020\SerieA_2020.txt",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2019\SerieA_2019.txt",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2018\SerieA_txt.txt",
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2017\SerieA_txt.txt",
-    # r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2016\SERIE_REM_2016\SerieA.txt",
-    # r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2015\SERIE_REM_2015\SerieA.txt",
-    # r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2014\SERIE_REM_2014\SerieA2014.csv",
+    r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv",
+    r"D:\DATA\REM\REM_2024\Datos\SerieA2024.csv",
+    r"D:\DATA\REM\REM_2023\Datos\SerieA2023.txt",
+    r"D:\DATA\REM\REM_2022\SerieA.txt",
+    r"D:\DATA\REM\REM_2021\2021\SerieA_2021.txt",
+    r"D:\DATA\REM\REM_2020\SerieA_2020.txt",
+    r"D:\DATA\REM\REM_2019\SerieA_2019.txt",
+    r"D:\DATA\REM\REM_2018\SerieA_txt.txt",
+    r"D:\DATA\REM\REM_2017\SerieA_txt.txt",
+    # r"D:\DATA\REM\REM_2016\SERIE_REM_2016\SerieA.txt",
+    # r"D:\DATA\REM\REM_2015\SERIE_REM_2015\SerieA.txt",
+    # r"D:\DATA\REM\REM_2014\SERIE_REM_2014\SerieA2014.csv",
 ]
 #%%
 # ----------------------------------------------------------------------

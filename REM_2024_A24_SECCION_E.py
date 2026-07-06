@@ -21,7 +21,7 @@ codigos_de_interes = [
     "29101772",
 ]
 
-path_a =r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\REM\REM_2024\Datos\SerieA2024.csv"
+path_a =r"D:\DATA\REM\REM_2024\Datos\SerieA2024.csv"
 chunk_size = 50000  
 
 filtered_data = pd.DataFrame()
