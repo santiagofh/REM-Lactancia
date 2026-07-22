@@ -1,60 +1,60 @@
 ,descripcion_prestacion,IdServicio,IdEstablecimiento,CodigoPrestacion,IdRegion,IdComuna,Maternidad,Neonatología,Pueblos originarios,Migrantes,nombre_ss,nombre_establecimiento,nombre_comuna
-0,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-1,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,142,36,5,60,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-2,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,3,33,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-3,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,25,6,0,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-4,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,7,22,2,6,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-5,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,3,5,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-6,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,2,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-7,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,6,,0,4,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-8,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,123,23,6,59,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-9,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,60,,2,32,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-10,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,33,1,1,12,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-11,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,3,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-12,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-13,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,2,,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-14,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,12,,0,3,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-15,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,26,1,1,8,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-16,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,0,9,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-17,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,0,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-18,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,0,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-19,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,34,5,1,11,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-20,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,19,28,0,16,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-21,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-22,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-23,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,11,,0,5,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-24,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,141,35,8,60,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-25,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,81,,3,29,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-26,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,28,4,2,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-27,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,17,31,3,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-28,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-29,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-30,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-31,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,103,38,11,46,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-32,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,66,,3,27,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-33,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,19,4,4,7,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-34,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,28,3,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-35,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-36,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-37,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,4,,1,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-38,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,4,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-39,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-40,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,141,38,8,64,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-41,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,74,,7,29,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-42,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,3,1,1,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-43,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,151,32,10,77,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-44,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,76,0,5,36,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-45,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,33,0,1,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-46,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,16,24,2,3,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-47,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,,3,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-48,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,0,1,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-49,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,3,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-50,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,4,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-51,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,136,38,10,58,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-52,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,4,28,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-53,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,30,4,2,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-54,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,13,26,4,16,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-55,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+0,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+1,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,142,36,5,60,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+2,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,3,33,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+3,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,25,6,0,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+4,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,7,22,2,6,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+5,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,3,5,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+6,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,2,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+7,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,6,,0,4,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+8,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,123,23,6,59,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+9,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,60,,2,32,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+10,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,33,1,1,12,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+11,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,3,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+12,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+13,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,2,,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+14,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,12,,0,3,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+15,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,26,1,1,8,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+16,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,0,9,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+17,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+18,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+19,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,34,5,1,11,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+20,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,19,28,0,16,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+21,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+22,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+23,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,11,,0,5,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+24,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,141,35,8,60,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+25,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,81,,3,29,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+26,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,28,4,2,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+27,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,17,31,3,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+28,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+29,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+30,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+31,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,103,38,11,46,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+32,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,66,,3,27,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+33,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,19,4,4,7,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+34,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,28,3,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+35,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+36,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+37,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,4,,1,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+38,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,4,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+39,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+40,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,141,38,8,64,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+41,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,74,,7,29,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+42,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,3,1,1,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+43,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,151,32,10,77,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+44,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,76,0,5,36,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+45,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,33,0,1,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+46,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,16,24,2,3,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+47,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,,3,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+48,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,10,0,1,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+49,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,3,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+50,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,4,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+51,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,136,38,10,58,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+52,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,4,28,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+53,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,30,4,2,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+54,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,13,26,4,16,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+55,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
 56,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,1,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
 57,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,4,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
 58,Total de recién nacidos/as egresados/as,12,112101,24200134,13,13122,184,61,11,50,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
@@ -131,8 +131,8 @@
 129,RN egresados con LME durante hospitalización y al alta,12,112101,24300103,13,13122,142,2,4,32,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
 130,RN egresados que recuperaron LME al alta,12,112101,24311025,13,13122,25,27,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
 131,RN egresados solo fórmula por protección o madre grave,12,112101,24311028,13,13122,0,4,0,0,Servicio de Salud Metropolitano Oriente,"Hospital Dr. Luis Tisné B. (Santiago, Peñalolén)",Peñalolén
-132,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,8,0,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-133,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,5,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+132,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,8,0,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+133,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,,5,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
 134,Total de recién nacidos/as egresados/as,14,114105,24200134,13,13110,152,0,0,51,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
 135,RN egresados con LME durante hospitalización y al alta,14,114105,24300103,13,13110,118,0,0,38,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
 136,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,33,0,0,3,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
@@ -577,38 +577,38 @@
 575,RN egresados que recuperaron LME al alta,14,114105,24311025,13,13110,0,7,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
 576,RN egresados con lactancia mixta al alta,14,114105,24311026,13,13110,35,21,1,6,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
 577,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),14,114105,24311027,13,13110,0,14,0,0,Servicio de Salud Metropolitano Sur Oriente,Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza,La Florida
-578,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-579,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,132,43,13,56,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-580,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,81,0,6,32,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-581,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,23,10,5,7,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-582,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,13,29,2,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-583,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,0,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-584,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,3,0,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-585,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,11,0,0,6,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-586,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,126,23,10,38,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-587,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,69,0,7,18,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-588,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-589,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,161,32,8,60,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-590,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,67,0,5,32,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-591,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,31,6,0,15,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-592,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,20,24,0,15,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-593,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,5,1,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-594,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,0,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-595,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,17,0,2,5,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-596,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,119,32,15,49,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-597,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,70,,10,25,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-598,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,27,13,3,13,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-599,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,11,18,1,8,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-600,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,1,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-601,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,9,,0,2,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-602,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,132,37,9,65,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-603,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,7,34,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-604,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,25,6,1,10,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-605,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,1,16,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-606,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-607,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,,1,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-608,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,4,,0,1,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
-609,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,"Hospital San Juan de Dios (Santiago, Santiago)",Santiago
+578,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+579,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,132,43,13,56,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+580,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,81,0,6,32,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+581,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,23,10,5,7,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+582,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,13,29,2,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+583,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,0,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+584,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,3,0,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+585,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,11,0,0,6,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+586,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,126,23,10,38,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+587,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,69,0,7,18,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+588,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+589,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,161,32,8,60,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+590,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,67,0,5,32,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+591,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,31,6,0,15,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+592,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,20,24,0,15,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+593,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,5,1,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+594,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,1,0,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+595,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,17,0,2,5,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+596,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,119,32,15,49,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+597,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,70,,10,25,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+598,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,27,13,3,13,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+599,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,11,18,1,8,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+600,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,2,1,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+601,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,9,,0,2,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+602,Total de recién nacidos/as egresados/as,10,110100,24200134,13,13101,132,37,9,65,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+603,RN egresados con LME durante hospitalización y al alta,10,110100,24300103,13,13101,84,,7,34,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+604,RN egresados que recuperaron LME al alta,10,110100,24311025,13,13101,25,6,1,10,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+605,RN egresados con lactancia mixta al alta,10,110100,24311026,13,13101,14,20,1,16,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+606,RN egresados solo fórmula láctea (excepto VIH/HTLV-1/Ley 21.155/protección),10,110100,24311027,13,13101,1,3,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+607,RN egresados con madres serología positiva (VIH),10,110100,29101770,13,13101,,1,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+608,RN egresados con madres acogidas a Ley 21.155,10,110100,29101772,13,13101,4,,0,1,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
+609,RN egresados solo fórmula por protección o madre grave,10,110100,24311028,13,13101,1,2,0,0,Servicio de Salud Metropolitano Occidente,Hospital San Juan de Dios (Santiago),Santiago
 610,Total de recién nacidos/as egresados/as,10,110120,24200134,13,13126,176,,0,60,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
 611,RN egresados con LME durante hospitalización y al alta,10,110120,24300103,13,13126,157,,0,60,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia
 612,RN egresados que recuperaron LME al alta,10,110120,24311025,13,13126,2,,0,0,Servicio de Salud Metropolitano Occidente,Hospital  Félix Bulnes Cerda,Cerro Navia

@@ -66,6 +66,7 @@ DIC_CODIGO_COMUNAS={
 CODIGOS_DE_INTERES = ["A0200001", "A0200002"]
 
 PATHS = [
+    r"D:\DATA\REM\REM_2026\Datos\SerieA2026.csv",
     r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv",
     r"D:\DATA\REM\REM_2024\Datos\SerieA2024.csv",
     r"D:\DATA\REM\REM_2023\Datos\SerieA2023.txt",
@@ -275,6 +276,6 @@ df_export = df[COLUMNAS]
 # 7. Exportar a EXCEL y CSV 
 # ----------------------------------------------------------------------
 
-df_export.to_csv('output/2017-2025_A03_SECCION_A5.csv')
-df_export.to_excel('output/2017-2025_A03_SECCION_A5.xlsx')
+df_export.to_csv('output/2017-2026_A03_SECCION_A5.csv')
+df_export.to_excel('output/2017-2026_A03_SECCION_A5.xlsx')
 # %%

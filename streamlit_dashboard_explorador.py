@@ -24,7 +24,44 @@ def list_years() -> list[str]:
         },
         reverse=True,
     )
-    return years or ["2025", "2024"]
+    return years or ["2026", "2025", "2024"]
+
+
+# Año considerado preliminar (datos REM aún no cerrados).
+PRELIMINARY_YEARS = {"2026"}
+
+
+def year_label(year: str) -> str:
+    if year in PRELIMINARY_YEARS:
+        return f"{year} (preliminar)"
+    return year
+
+
+def label_to_year(label: str) -> str:
+    return str(label).split(" ", 1)[0] if label else label
+
+
+def render_provisional_badge():
+    st.markdown(
+        """
+        <style>
+        .provisional-badge {
+            display: inline-block;
+            margin: 0.15rem 0 0.6rem 0;
+            padding: 0.35rem 0.7rem;
+            border-radius: 999px;
+            background: #FFF3CD;
+            border: 1px solid #F2C94C;
+            color: #7A4D00;
+            font-size: 0.9rem;
+            font-weight: 700;
+            letter-spacing: 0.01em;
+        }
+        </style>
+        <div class="provisional-badge">Datos Provisorios</div>
+        """,
+        unsafe_allow_html=True,
+    )
 
 
 def get_file(year: str, section: str) -> Path:
@@ -247,9 +284,15 @@ st.caption("Versión extendida para navegar por red asistencial sin tocar el das
 
 with st.sidebar:
     st.header("Filtros")
-    year = st.selectbox("Año", list_years(), index=0)
+    years = list_years()
+    year_labels_list = [year_label(y) for y in years]
+    year_sel = st.selectbox("Año", year_labels_list, index=0)
+    year = label_to_year(year_sel)
     section_label = st.selectbox("Sección", list(SECTIONS.values()))
     section = {v: k for k, v in SECTIONS.items()}[section_label]
+
+if year in PRELIMINARY_YEARS:
+    render_provisional_badge()
 
 file_path = get_file(year, section)
 if not file_path.exists():

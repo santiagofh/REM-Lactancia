@@ -8,7 +8,7 @@ from pathlib import Path
 # --------------------------------------------------------------------------
 # 1. Cargar el archivo fuente
 # --------------------------------------------------------------------------
-CSV_IN = Path("output/2017-2025_A03_SECCION_A5.csv")
+CSV_IN = Path("output/2017-2026_A03_SECCION_A5.csv")
 df = pd.read_csv(CSV_IN, dtype=str)
 
 # --------------------------------------------------------------------------
@@ -90,7 +90,7 @@ tablas = {nombre_hoja: pivot_lme(df, col) for col, nombre_hoja in MESES.items()}
 # --------------------------------------------------------------------------
 # 5. Exportar a un único Excel con tres hojas
 # --------------------------------------------------------------------------
-EXCEL_OUT = Path("output/2017-2025_A03_SECCION_A5_TABLAS.xlsx")
+EXCEL_OUT = Path("output/2017-2026_A03_SECCION_A5_TABLAS.xlsx")
 
 with pd.ExcelWriter(EXCEL_OUT, engine="xlsxwriter") as writer:
     for sheet_name, tabla in tablas.items():

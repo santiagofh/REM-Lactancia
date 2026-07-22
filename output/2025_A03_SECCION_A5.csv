@@ -4725,29 +4725,29 @@
 4723,11,10,110390,A0200001,13,13601,17,10,22,Servicio de Salud Metropolitano Occidente,Centro de Salud Familiar Dr. Alberto Allende Jones,Talagante,MENORES CONTROLADOS
 4724,12,10,110390,A0200002,13,13601,6,18,9,Servicio de Salud Metropolitano Occidente,Centro de Salud Familiar Dr. Alberto Allende Jones,Talagante,LACTANCIA MATERNA EXCLUSIVA
 4725,12,10,110390,A0200001,13,13601,15,22,23,Servicio de Salud Metropolitano Occidente,Centro de Salud Familiar Dr. Alberto Allende Jones,Talagante,MENORES CONTROLADOS
-4726,2,10,200454,A0200002,13,13602,0,0,2,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4727,2,10,200454,A0200001,13,13602,0,0,3,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4728,5,10,200454,A0200001,13,13602,3,4,4,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4729,4,10,200454,A0200001,13,13602,4,5,1,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4730,3,10,200454,A0200001,13,13602,0,2,2,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4731,5,10,200454,A0200002,13,13602,3,4,4,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4732,3,10,200454,A0200002,13,13602,0,1,0,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4733,4,10,200454,A0200002,13,13602,4,4,0,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4734,6,10,200454,A0200002,13,13602,4,2,0,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4735,6,10,200454,A0200001,13,13602,4,2,1,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4736,1,10,200454,A0200001,13,13602,0,0,5,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4737,1,10,200454,A0200002,13,13602,,,3,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4738,9,10,200454,A0200002,13,13602,,,2,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4739,9,10,200454,A0200001,13,13602,,,3,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4740,8,10,200454,A0200001,13,13602,,,3,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4741,8,10,200454,A0200002,13,13602,,1,0,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4742,11,10,200454,A0200002,13,13602,0,0,0,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4743,11,10,200454,A0200001,13,13602,0,0,3,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4744,10,10,200454,A0200001,13,13602,0,0,2,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4745,12,10,200454,A0200002,13,13602,,,,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
-4746,12,10,200454,A0200001,13,13602,,,,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4747,7,10,200454,A0200001,13,13602,0,0,3,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,MENORES CONTROLADOS
-4748,7,10,200454,A0200002,13,13602,,,2,Servicio de Salud Metropolitano Occidente,Centro Comunitario de Salud Familiar Lo Chacón,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4726,2,10,200454,A0200002,13,13602,0,0,2,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4727,2,10,200454,A0200001,13,13602,0,0,3,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4728,5,10,200454,A0200001,13,13602,3,4,4,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4729,4,10,200454,A0200001,13,13602,4,5,1,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4730,3,10,200454,A0200001,13,13602,0,2,2,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4731,5,10,200454,A0200002,13,13602,3,4,4,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4732,3,10,200454,A0200002,13,13602,0,1,0,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4733,4,10,200454,A0200002,13,13602,4,4,0,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4734,6,10,200454,A0200002,13,13602,4,2,0,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4735,6,10,200454,A0200001,13,13602,4,2,1,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4736,1,10,200454,A0200001,13,13602,0,0,5,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4737,1,10,200454,A0200002,13,13602,,,3,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4738,9,10,200454,A0200002,13,13602,,,2,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4739,9,10,200454,A0200001,13,13602,,,3,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4740,8,10,200454,A0200001,13,13602,,,3,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4741,8,10,200454,A0200002,13,13602,,1,0,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4742,11,10,200454,A0200002,13,13602,0,0,0,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4743,11,10,200454,A0200001,13,13602,0,0,3,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4744,10,10,200454,A0200001,13,13602,0,0,2,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4745,12,10,200454,A0200002,13,13602,,,,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
+4746,12,10,200454,A0200001,13,13602,,,,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4747,7,10,200454,A0200001,13,13602,0,0,3,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,MENORES CONTROLADOS
+4748,7,10,200454,A0200002,13,13602,,,2,Servicio de Salud Metropolitano Occidente,CECOSF Wilma Yoli Gomez Conejera,El Monte,LACTANCIA MATERNA EXCLUSIVA
 4749,2,10,110370,A0200002,13,13602,3,9,6,Servicio de Salud Metropolitano Occidente,Centro de Salud Familiar El Monte,El Monte,LACTANCIA MATERNA EXCLUSIVA
 4750,3,10,110370,A0200002,13,13602,13,12,4,Servicio de Salud Metropolitano Occidente,Centro de Salud Familiar El Monte,El Monte,LACTANCIA MATERNA EXCLUSIVA
 4751,3,10,110370,A0200001,13,13602,17,17,6,Servicio de Salud Metropolitano Occidente,Centro de Salud Familiar El Monte,El Monte,MENORES CONTROLADOS

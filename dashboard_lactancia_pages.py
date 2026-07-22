@@ -24,7 +24,23 @@ def list_years() -> list[str]:
         if token.isdigit() and len(token) == 4:
             years.append(token)
     years = sorted(set(years), reverse=True)
-    return years or ["2025", "2024"]
+    return years or ["2026", "2025", "2024"]
+
+
+# Año considerado preliminar (datos REM aún no cerrados).
+PRELIMINARY_YEARS = {"2026"}
+
+
+def year_label(year: str) -> str:
+    """Etiqueta mostrada al usuario en el selectbox de año."""
+    if year in PRELIMINARY_YEARS:
+        return f"{year} (preliminar)"
+    return year
+
+
+def label_to_year(label: str) -> str:
+    """Inverse de year_label: recupera el token de año puro."""
+    return str(label).split(" ", 1)[0] if label else label
 
 
 @st.cache_data(show_spinner=False)
@@ -431,12 +447,16 @@ def render_section_page(section: str):
     years = list_years()
 
     st.title(f"Dashboard REM Lactancia · {section_label}")
-    render_provisional_badge()
     st.caption("Explora resultados por desagregación y descarga la vista filtrada.")
 
     with st.sidebar:
         st.header("Filtros")
-        year = st.selectbox("Año", years, index=0)
+        year_labels_list = [year_label(y) for y in years]
+        year_sel = st.selectbox("Año", year_labels_list, index=0)
+        year = label_to_year(year_sel)
+
+    if year in PRELIMINARY_YEARS:
+        render_provisional_badge()
 
     file_path = get_file(year, section)
     if not file_path.exists():

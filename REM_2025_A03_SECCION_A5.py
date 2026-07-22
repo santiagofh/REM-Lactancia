@@ -38,7 +38,7 @@ for chunk in pd.read_csv(path_a, sep=";", usecols=USECOLS, dtype=str, chunksize=
 
 df = pd.concat(chunks, ignore_index=True)
 #%%
-est_dir = Path(r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ESTABLECIMIENTOS")
+est_dir = Path(r"D:\DATA\ESTABLECIMIENTOS")
 candidates = sorted(est_dir.glob("establecimientos_*.csv"))
 if not candidates:
     raise FileNotFoundError(f"No se encontró establecimientos_*.csv en {est_dir}")

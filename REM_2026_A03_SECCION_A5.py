@@ -10,19 +10,11 @@ os.makedirs('output', exist_ok=True)
 
 # Cargar datos de ejemplo
 codigos_de_interes = [
-"04040420",
-"04040421",
-"09600287",
-"09600288",
-"09600289",
-"04040423",
-"04040424",
-"04040425",
-"04040426",
-
+    "A0200001",
+    "A0200002",
 ]
 
-path_a =r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv"
+path_a =r"D:\DATA\REM\REM_2026\Datos\SerieA2026.csv"
 CHUNK_SIZE = 200_000
 USECOLS = [
     "CodigoPrestacion",
@@ -30,15 +22,10 @@ USECOLS = [
     "IdServicio",
     "IdEstablecimiento",
     "IdComuna",
-    "Col01",
-    "Col02",
-    "Col03",
+    "Mes",
     "Col04",
     "Col05",
     "Col06",
-    "Col07",
-    "Col08",
-    "Col09",
 ]
 
 chunks = []
@@ -92,52 +79,51 @@ if missing_count:
         f"({missing_count/total_count:.2%})."
     )
     pd.DataFrame({'IdEstablecimiento': missing_ids}).to_csv(
-        'output/2025_A04_SECCION_L_establecimientos_sin_cruce.csv',
+        'output/2026_A03_SECCION_A5_establecimientos_sin_cruce.csv',
         index=False
     )
 #%%
-
-# Filtrar y renombrar las Columnas correspondientes a la sección a04_l
-seccion_a04_l = {
-"04040420":"Consulta de Lactancia - Consulta Lactancia Materna de alerta",
-"04040421":"Consulta de Lactancia - Consulta de Lactancia Materna de seguimiento",
-"09600287":"Consulta de Lactancia - Otras consultas de Lactancia Materna",
-"09600288":"Consejería de Lactancia - Consejería prenatal en Lactancia Materna",
-"09600289":"Consejería de Lactancia - Consejería posnatal en Lactancia Materna",
-"04040423":"Consulta de Lactancia por profesional  - Médico/a",
-"04040424":"Consulta de Lactancia por profesional  - Matrona/ón",
-"04040425":"Consulta de Lactancia por profesional  - Enfermera/o",
-"04040426":"Consulta de Lactancia por profesional  - Nutricionista ",
+# Filtrar y renombrar las Columnas correspondientes a la sección A3
+seccion_a3 = {
+    "A0200001": 'MENORES CONTROLADOS',
+    "A0200002": 'LACTANCIA MATERNA EXCLUSIVA',
 }
 
-
-seccion_a04_l_Col = {
-    "Col01": "TOTAL",
-    "Col02": "De 0 a 29 días",
-    "Col03": "De 1 mes a 2 meses 29 días",
-    "Col04": "De 3 meses a 5 meses 29 días",
-    "Col05": "De 6 meses a 11 meses 29 días",
-    "Col06": "De 1 a 2 años",
-    "Col07": "Gestantes",
-    "Col08": "Pueblos Originarios",
-    "Col09": "Migrantes"
+seccion_a3_Col = {
+    # Según diccionario A03:
+    # Col04=1° mes, Col05=3° mes, Col06=6° mes
+    'Col04': '1° mes',
+    'Col05': '3° mes',
+    'Col06': '6° mes'
 }
 
+df_a3 = df[df['CodigoPrestacion'].isin(seccion_a3.keys())]
+df_a3 = df_a3.rename(columns=seccion_a3_Col)
+df_a3['Prestación'] = df_a3['CodigoPrestacion'].map(seccion_a3)
 
-df_a04_l = df[df['CodigoPrestacion'].isin(seccion_a04_l.keys())]
-df_a04_l = df_a04_l.rename(columns=seccion_a04_l_Col)
-df_a04_l['CodigoPrestacion'] = df_a04_l['CodigoPrestacion'].astype(str)
-df_a04_l['descripcion_prestacion'] = df_a04_l['CodigoPrestacion'].map(seccion_a04_l)
-cols = ['descripcion_prestacion'] + [c for c in df_a04_l.columns if c != 'descripcion_prestacion']
-df_a04_l = df_a04_l[cols]
+if "IdEstablecimiento" in df_a3.columns and "codigo_deis_establecimiento" not in df_a3.columns:
+    df_a3["codigo_deis_establecimiento"] = (
+        pd.to_numeric(df_a3["IdEstablecimiento"], errors="coerce")
+        .astype("Int64")
+        .astype("string")
+        .str.zfill(6)
+    )
+if "IdComuna" in df_a3.columns and "codigo_deis_comuna" not in df_a3.columns:
+    df_a3["codigo_deis_comuna"] = (
+        pd.to_numeric(df_a3["IdComuna"], errors="coerce")
+        .astype("Int64")
+        .astype("string")
+        .str.zfill(5)
+    )
+if "IdServicio" in df_a3.columns and "codigo_deis_servicio" not in df_a3.columns:
+    df_a3["codigo_deis_servicio"] = (
+        pd.to_numeric(df_a3["IdServicio"], errors="coerce")
+        .astype("Int64")
+        .astype("string")
+        .str.zfill(2)
+    )
 
-
-
-columns_to_drop = [Col for Col in df_a04_l.columns if Col.startswith('Col')]
-df_a04_l = df_a04_l.drop(columns=columns_to_drop)
-
-df_a04_l.to_csv('output/2025_A04_SECCION_L.csv')
-df_a04_l.to_excel('output/2025_A04_SECCION_L.xlsx')
-
-
+# %%
+df_a3.to_csv('output/2026_A03_SECCION_A5.csv')
+df_a3.to_excel('output/2026_A03_SECCION_A5.xlsx')
 # %%

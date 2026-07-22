@@ -22,7 +22,7 @@ codigos_de_interes = [
     "29101772",
 ]
 
-path_a =r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv"
+path_a =r"D:\DATA\REM\REM_2026\Datos\SerieA2026.csv"
 CHUNK_SIZE = 200_000
 USECOLS = [
     "CodigoPrestacion",
@@ -93,7 +93,7 @@ if missing_count:
     )
     # Guardar lista para revision
     missing_df = pd.DataFrame({'IdEstablecimiento': missing_ids})
-    missing_df.to_csv('output/2025_A24_SECCION_E_establecimientos_sin_cruce.csv', index=False)
+    missing_df.to_csv('output/2026_A24_SECCION_E_establecimientos_sin_cruce.csv', index=False)
 #%%
 # Filtrar y renombrar las Columnas correspondientes a la sección A24
 seccion_a24 = {
@@ -132,6 +132,27 @@ df_a24 = df_a24[cols]
 columns_to_drop = [Col for Col in df_a24.columns if Col.startswith('Col')]
 df_a24 = df_a24.drop(columns=columns_to_drop)
 
+if "IdEstablecimiento" in df_a24.columns and "codigo_deis_establecimiento" not in df_a24.columns:
+    df_a24["codigo_deis_establecimiento"] = (
+        pd.to_numeric(df_a24["IdEstablecimiento"], errors="coerce")
+        .astype("Int64")
+        .astype("string")
+        .str.zfill(6)
+    )
+if "IdComuna" in df_a24.columns and "codigo_deis_comuna" not in df_a24.columns:
+    df_a24["codigo_deis_comuna"] = (
+        pd.to_numeric(df_a24["IdComuna"], errors="coerce")
+        .astype("Int64")
+        .astype("string")
+        .str.zfill(5)
+    )
+if "IdServicio" in df_a24.columns and "codigo_deis_servicio" not in df_a24.columns:
+    df_a24["codigo_deis_servicio"] = (
+        pd.to_numeric(df_a24["IdServicio"], errors="coerce")
+        .astype("Int64")
+        .astype("string")
+        .str.zfill(2)
+    )
 
-df_a24.to_csv('output/2025_A24_SECCION_E.csv')
-df_a24.to_excel('output/2025_A24_SECCION_E.xlsx')
+df_a24.to_csv('output/2026_A24_SECCION_E.csv')
+df_a24.to_excel('output/2026_A24_SECCION_E.xlsx')

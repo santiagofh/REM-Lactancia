@@ -22,7 +22,7 @@ codigos_de_interes = [
 
 ]
 
-path_a =r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv"
+path_a =r"D:\DATA\REM\REM_2026\Datos\SerieA2026.csv"
 CHUNK_SIZE = 200_000
 USECOLS = [
     "CodigoPrestacion",
@@ -92,11 +92,10 @@ if missing_count:
         f"({missing_count/total_count:.2%})."
     )
     pd.DataFrame({'IdEstablecimiento': missing_ids}).to_csv(
-        'output/2025_A04_SECCION_L_establecimientos_sin_cruce.csv',
+        'output/2026_A04_SECCION_L_establecimientos_sin_cruce.csv',
         index=False
     )
 #%%
-
 # Filtrar y renombrar las Columnas correspondientes a la sección a04_l
 seccion_a04_l = {
 "04040420":"Consulta de Lactancia - Consulta Lactancia Materna de alerta",
@@ -132,12 +131,12 @@ cols = ['descripcion_prestacion'] + [c for c in df_a04_l.columns if c != 'descri
 df_a04_l = df_a04_l[cols]
 
 
-
 columns_to_drop = [Col for Col in df_a04_l.columns if Col.startswith('Col')]
 df_a04_l = df_a04_l.drop(columns=columns_to_drop)
 
-df_a04_l.to_csv('output/2025_A04_SECCION_L.csv')
-df_a04_l.to_excel('output/2025_A04_SECCION_L.xlsx')
+# Datos 2026 (preliminar)
+df_a04_l.to_csv('output/2026_A04_SECCION_L.csv')
+df_a04_l.to_excel('output/2026_A04_SECCION_L.xlsx')
 
 
 # %%
