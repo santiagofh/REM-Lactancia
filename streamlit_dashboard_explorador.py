@@ -189,18 +189,25 @@ def dataframe_to_excel_bytes(df: pd.DataFrame) -> bytes:
 
 
 def style_rate_table(df: pd.DataFrame, rate_cols: list[str]):
-    cols = [c for c in rate_cols if c in df.columns]
+    rate_set = {c for c in rate_cols if c in df.columns}
     styler = df.style
-    if cols:
-        fmt = {c: ("{:.2%}" if is_ratio_series(df[c]) else "{:.2f}%") for c in cols}
+
+    fmt = {}
+    for col in df.columns:
+        if col in rate_set:
+            fmt[col] = "{:.2%}" if is_ratio_series(df[col]) else "{:.2f}%"
+        elif pd.api.types.is_numeric_dtype(df[col]):
+            fmt[col] = "{:.0f}"
+
+    if fmt:
         styler = styler.format(fmt, na_rep="-")
 
-        def _style_col(col: pd.Series):
-            if col.name in cols:
-                return ["font-weight: 700"] * len(col)
-            return [""] * len(col)
+    def _style_col(col: pd.Series):
+        if col.name in rate_set:
+            return ["font-weight: 700"] * len(col)
+        return [""] * len(col)
 
-        styler = styler.apply(_style_col, axis=0)
+    styler = styler.apply(_style_col, axis=0)
 
     return styler.set_table_styles(
         [{"selector": "th", "props": [("font-weight", "700")]}]
